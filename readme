@@ -1,0 +1,7 @@
+how to run this app
+
+step 1: download or clone the app
+step 2: open the app in you IDE
+step 3: run the folloing command inside your terminal "npm i"
+step 4: then "npm run dev"
+
