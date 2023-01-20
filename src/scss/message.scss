@@ -1,0 +1,21 @@
+.messageforguest-row{
+    .messageforguest-col{
+        img{
+            width: 100% !important;
+            height: 200px !important;
+            object-fit: cover !important;
+        }
+    }
+    .message{
+        .font-style-italic{
+            font-style: italic;
+        }
+        .font-weight-bold{
+            font-weight: 500;
+        }
+        .font-weight-light{
+            font-weight: 300;
+            font-size: small;
+        }
+    }
+}
